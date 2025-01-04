@@ -49,7 +49,7 @@ def main():
                             outputs=[plot]
                         )
         
-    iface.launch(share=True)
+    iface.launch(share=True, colab=True)
 
 if __name__ == "__main__":
     main()
