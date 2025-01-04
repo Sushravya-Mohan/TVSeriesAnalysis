@@ -8,5 +8,3 @@ pandas
 gradio
 matplotlib
 seaborn
-fastapi
-pydantic
