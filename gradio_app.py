@@ -1,4 +1,4 @@
-# import gradio as gr
+import gradio as gr
 from theme_classifier.theme_classifier import ThemeClassifier
 
 def get_themes(theme_list_str, subtitles_path, save_path):
